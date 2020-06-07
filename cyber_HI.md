@@ -1,4 +1,4 @@
-# cyber: Computing the knowledge of the Great Web
+# cyber: ग्रेट वेब के ज्ञान की गणना
 
 <p align="center">
   <img src="images/graph.png" />
