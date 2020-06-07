@@ -18,24 +18,24 @@
 
 आपात स्थिति की [एक ब्रांड-नई वेब-स्टैक](https://ipfs.io/ipfs/Qmf2rKkDPSsvdudwSmdDPbZuYae8XRV26c1wAFvv88hhw) का उद्भव एक श्रेष्ठ इंटरनेट का अवसर बनाता है। समुदाय इसे web3 कहता है। हम इसे ग्रेट वेब कहते हैं। हमारा मानना है कि विभिन्न प्रकार के निम्न-स्तरीय संचार अपरिवर्तनीय होने चाहिए और दशकों तक नहीं बदलना चाहिए, जैसे की: अपरिवर्तनीय सामग्री लिंक। वे पारंपरिक प्रोटोकॉल स्टैक की समस्याओं को दूर करने में बहुत आशाजनक लगते हैं। वे अधिक गति जोड़ते हैं और नए वेब के लिए अधिक सुलभ कनेक्शन प्रदान करते हैं। हालांकि, जैसा किसी भी अवधारणा के साथ होता है जो कुछ अद्वितीय प्रदान करता है - नई समस्याएं सामने आती हैं। इस तरह की चिंता एक सामान्य प्रयोजन खोज है। मौजूदा सामान्य-उद्देश्य वाले खोज इंजन प्रतिबंधात्मक और केंद्रीकृत डेटाबेस हैं जिन पर हर कोई भरोसा करने के लिए मजबूर है। उन खोज इंजनों को मुख्य रूप से TCP/IP, DNS, URL और HTTP/S पर आधारित क्लाइंट-सर्वर आर्किटेक्चर के लिए डिज़ाइन किया गया था। ग्रेट वेब एक चुनौती और खोज इंजन के लिए एक अवसर बनाता है जो उभरती प्रौद्योगिकियों पर आधारित है और इन उद्देश्यों के लिए विशेष रूप से डिज़ाइन किया गया है। हैरानी की बात है, अनुमतिहीन ब्लॉकचेन आर्किटेक्चर पिछले आर्किटेक्चर के लिए दुर्गम तरीके से एक सामान्य-उद्देश्य वाले खोज इंजन के निर्माण की अनुमति देता है।
 
-## On the adversarial examples problem
+## प्रतिकूल उदाहरणों की समस्या पर
 
-[The current architecture of search engines](https://ipfs.io/ipfs/QmeS4LjoL1iMNRGuyYSx78RAtubTT2bioSGnsvoaupcHR6) is a system where some entity processes all the shit. This approach suffers from one challenging and a distinct problem, that has yet to be solved, even by the brilliant Google scientists: [the adversarial examples problem](https://ipfs.io/ipfs/QmNrAFz34SLqkzhSg4wAYYJeokfJU5hBEpkT4hPRi226y9). The problem that Google acknowledges, is that it is rather difficult to algorithmically reason whether or not a particular sample is adversarial. This is inconsiderate to how awesome the educating technology in itself is. A crypto-economical approach can change beneficiaries in the game. Consequently, this approach will effectively remove possible sybil attack vectors. It removes the necessity to hard-code model crawling and meaning extraction by a single entity. Instead, it gives this power to the whole world. A learning sybil-resistant, agent-generated model, will probably lead to orders of magnitude more predictive results.
+[खोज इंजनों की वर्तमान आर्किटेक्चर] (https://ipfs.io/ipfs/QmeS4LjoL1iMNRGuyYSx78RAtubTT2bioSGnsvoaupcHR6) एक ऐसी प्रणाली है, जिसकी इकाई सभी गंदगी को संसाधित करती है। यह दृष्टिकोण एक चुनौतीपूर्ण और एक अलग समस्या से ग्रस्त है, जो अभी तक हल किया जाना है, यहां तक कि शानदार Google वैज्ञानिकों द्वारा भी: [प्रतिकूल परिस्थितियों की समस्या] (https://ipfs.io/ipfs/QmNrAFz34SLqkzhng4wAYYJeokfJU5BEBEkT4hPRi226y9y9)। Google जो समस्या स्वीकार करता है, वह यह है कि यह एल्गोरिदमिक रूप से कठिन है कि कोई विशेष नमूना प्रतिकूल है आप चाहे या नहीं यह इस बात पर असंगत है कि अपने आप में शिक्षित तकनीक कितनी भयानक है। एक क्रिप्टो-किफायती दृष्टिकोण खेल में लाभार्थियों को बदल सकता है। नतीजतन, इस दृष्टिकोण को प्रभावी रूप से संभावित सिबिल अटैक वैक्टर को हटा दिया जाएगा। यह एकल इकाई द्वारा हार्ड-कोड मॉडल क्रॉलिंग और अर्थ निष्कर्षण की आवश्यकता को हटा देता है। इसके बजाय, यह पूरी दुनिया को यह शक्ति देता है। सीखने वाला सिबिल-रेसिस्टेंट, एजेंट-जनरेटेड मॉडल, संभवतः परिमाण के आदेशों का नेतृत्व करेगा और अधिक पूर्वानुमान परिणाम देगा।
 
-## Cyber protocol
+## Cyber प्रोटोकॉल
 
-In its core the protocol is very minimalistic and can be expressed with the following steps:
+इसके मूल में प्रोटोकॉल बहुत न्यूनतर है और इसे निम्न चरणों के साथ व्यक्त किया जा सकता है:
 
-1. Compute the genesis of cyber protocol based on the defined distribution
-2. Define the state of the [knowledge graph](#knowledge-graph)
-3. Gather transactions using a [consensus computer](#the-notion-of-a-consensus-computer)
-4. Check the validity of the signatures
-5. Check the [bandwidth limit](#relevance-machine)
-6. Check the validity of CIDs
-7. If the signatures, the bandwidth limit and CIDs are all valid, apply [cyberlinks](#cyberlinks) and transactions
-8. Calculate the vaules of [cyber\~Rank](#cyberrank) for every round for the CIDs on the [knowledge graph](#knowledge-graph)
+1. परिभाषित वितरण के आधार पर cyber प्रोटोकॉल की उत्पत्ति की गणना करें
+2. [ज्ञान ग्राफ](#knowledge-graph) की स्थिति को परिभाषित करें
+3. एक [सर्वसम्मति कंप्यूटर] का उपयोग करके ट्रांसक्शन इकट्ठा करें(#the-notion-of-a-consensus-computer)
+4. सिग्नेचर की वैधता की जाँच करें
+5. [बैंडविड्थ सीमा](#relevance-machine) जांचें
+6. CID की वैधता की जाँच करें
+7. यदि सिग्नेचर, बैंडविड्थ सीमा और CID सभी मान्य हैं, तो [cyberlinks](#cyberlinks) और लेनदेन लागू करें
+8. [ज्ञान ग्राफ](#knowledge-graph) पर CID के हर दौर के लिए [cyber\~Rank](#cyberrank) के महत्व की गणना करें।
 
-The rest of this document discusses the rationale and the technical details of the proposed protocol.
+इस दस्तावेज़ के बाकी हिस्से में प्रस्तावित प्रोटोकॉल के औचित्य और तकनीकी विवरणों पर चर्चा की गई है।
 
 ## Knowledge graph
 
