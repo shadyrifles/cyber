@@ -53,7 +53,7 @@
 
 `Qme4z71Zea9xaXScUi6pbsuTKCCNFp5TAv8W5tjdfH7yuH`
 
-हमारे द्वारा प्राप्त ज्ञान के अनुसार ग्राफ को बनाने के लिए सामग्री पतों का उपयोग किया [यह बहुत आवश्यक है] (https://steemit.com/web3/@hipster/an-idea-of-decentralized-search-for-web3-ce860b61defe5est)[IPFS](https://ipfs.io/ipfs/QmV9tSDx9UiPeWExXEeH6aoDvmihvx6jD5eLb4jbTaKGps) - [जैसे](https://ipfs.io/ipfs/QmXHGmfo4sjdHVW2MAxczAfs44RCpSeva2an4QvkzqYgfR) P2P प्रोटोकॉल के सुपरपावर जो एक खोज इंजन के लिए वांछित हैं:
+हमारे द्वारा प्राप्त ज्ञान के अनुसार ग्राफ को बनाने के लिए सामग्री पतों का उपयोग किया [यह बहुत आवश्यक है](https://steemit.com/web3/@hipster/an-idea-of-decentralized-search-for-web3-ce860b61defe5est) [IPFS](https://ipfs.io/ipfs/QmV9tSDx9UiPeWExXEeH6aoDvmihvx6jD5eLb4jbTaKGps) - [जैसे](https://ipfs.io/ipfs/QmXHGmfo4sjdHVW2MAxczAfs44RCpSeva2an4QvkzqYgfR) P2P प्रोटोकॉल के सुपरपावर जो एक खोज इंजन के लिए वांछित हैं:
 
 - मेष-नेटवर्क फ्यूचर-प्रूफ 
 - अंतर्वैयक्तिक अभिगम्यता
